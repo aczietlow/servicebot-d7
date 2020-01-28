@@ -1,0 +1,7 @@
+# Ignore local sites and settings
+docroot/sites/local.*
+docroot/sites/*.local
+docroot/sites/*.local*
+
+# IDEs
+.idea
